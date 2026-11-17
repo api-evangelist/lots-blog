@@ -1,4 +1,4 @@
-# lots-blog
+# LotsBlog
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,112 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-lots-blog is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://lots.blog/
+LotsBlog is an AI‑native blogging platform that lets founders, marketers and agencies publish content directly from large language model agents such as ChatGPT or Claude. The service provides private Markdown blog guides, image handling, topic management, scheduling, hosting, technical SEO, AEO, analytics, and optional email sign‑up, all without requiring coding. Users can connect their own domains, manage teams, and integrate the platform via a RESTful MCP API for automated content creation and management.
+
+**Areas:** Company · AI · Blogging · ContentCreation · Automation
+
+## LotsBlog on APIs.io
+
+Everything profiled for LotsBlog is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lots-blog/](https://apis.io/providers/lots-blog/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [LotsBlog Lots.Blog API](https://apis.io/apis/lots-blog/lots-blog-lots-blog-api/) — The Lots.Blog API from LotsBlog — 57 operation(s) for lots.blog.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [LotsBlog Agentic Access](https://apis.io/agentic-access/lots-blog/lots-blog-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [LotsBlog API Rules](https://apis.io/rules/lots-blog/lots-blog-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [LotsBlog Authentication](https://apis.io/security/lots-blog/lots-blog-authentication/)
+- [LotsBlog Domain Security](https://apis.io/security/lots-blog/lots-blog-domain-security/)
+- [LotsBlog Vulnerability Disclosure](https://apis.io/security/lots-blog/lots-blog-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [LotsBlog Plans Pricing](https://apis.io/plans/lots-blog/lots-blog-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lots.blog/)
+- [Documentation](https://docs.lots.blog/)
+- [Pricing](https://lots.blog/pricing)
+- [Support](https://lots.blog/help)
+- [Changelog](https://support.lots.blog/changelog)
+- [Blog](https://blog.lots.blog)
+- [Security](https://www.lotstech.com/security)
+
+## API Evangelist rating
+
+**Kin Score 49.2** — developing · rubric 0.27.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 45.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 52.1 |
+
+**Agent readiness 50.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 20.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lots-blog/](https://apis.io/providers/lots-blog/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LotsBlog: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lots-blog/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
